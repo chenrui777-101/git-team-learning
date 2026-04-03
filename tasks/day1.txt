@@ -1,1 +1,1 @@
-阅读Pro Git的1.起步和2.Git基础
+阅读Pro Git的1.起步和2.Git基础。
