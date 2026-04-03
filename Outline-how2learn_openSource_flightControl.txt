@@ -1,0 +1,64 @@
+无人机学习目录大纲：
+1、开源飞控
+	APM：	https://ardupilot.org/ardupilot/
+	PX4：	https://docs.px4.io/main/zh/
+	BF
+	INAV
+
+2、掌握git
+	Pro Git（中文版）：	https://gitee.com/progit/
+
+3、硬件
+	电子部分
+		电路与模电
+			电路：	https://higher.smartedu.cn/course/698517a795df98bb27d909b6
+					https://chinaooc.com.cn/course/622ac96ebee70ef79f3e257b
+			模电：	https://www.bilibili.com/video/BV1Gt411b7Zq/
+					https://mooc1.chaoxing.com/mooc-ans/coursestar?courseId=227851097
+		PCB绘制工具：
+			Altium Designer
+			嘉立创EDA(专业版)
+		相关综合性的学习课程：
+			嘉立创EDA学习与使用教材	https://prodocs.lceda.cn/cn/
+			张飞实战电子
+	机械部分
+		solidworks
+
+4、RTOS系统
+	RT thread：	https://www.rt-thread.io/about.html
+				https://www.rt-thread.io/document/site/
+	ucos3：
+		https://e.tb.cn/h.ijJzpGm4FQzb7Kj?tk=1AQE522ubVD CZ007 「uCOS教程 uCOS-III从入门到精通原理到使用全套教程 视频源码X003
+	
+	前moto架构师手把手带你实现一个操作系统：
+		https://item.taobao.com/item.htm?abbucket=7&id=562804085468&mi_id=0000MU_zRVis4y-1u6I1te2bPPh_PD6QnJFWrZ15THj6ry8&ns=1&skuId=4799219959632&spm=0.0.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22e971a22cdadc4559a49069c41ca6ada6%22%7D&xxc=taobaoSearch
+
+5、飞控源码
+	Copter4.6:		https://github.com/ArduPilot/ardupilot
+	PX4-V1.16.1:	https://github.com/PX4/PX4-Autopilot
+	
+6、ROS
+
+7、视觉
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
